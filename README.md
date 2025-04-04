@@ -46,8 +46,8 @@ The trained models are evaluated using the following metrics:
   - Checking for mode collapse, artifacts, and unnatural structures in generated images.
 
 ## Results
-| Model    | Inception Score (IS) | FID Score |
-|----------|----------------------|-----------|
-| WGAN     | TBD                  | TBD       |
-| WGAN-GP  | TBD                  | TBD       |
-| LSGAN    | TBD                  | TBD       |
+| Model    | Inception Score (IS) | FID Score        |
+|----------|----------------------|------------------|
+| WGAN     | 1.9700               | 1,567,845.4697   |
+| WGAN-GP  | 1.9554               | 4.5178           |
+| LSGAN    | 1.2089               | 266.3958         |
